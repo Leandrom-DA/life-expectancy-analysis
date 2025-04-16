@@ -1,2 +1,2 @@
-# life-expectancy-analysis
-This project analyzes global life expectancy data and the variables that affect it
+## life-expectancy-analysis
+This project analyzes global life expectancy data and the variables that affect it. In this analysis, we will perform data cleaning and some relevant calculations, such as the top 10 countries with the highest life expectancy, the 10 with the lowest life expectancy, the 10 countries with the highest growth in life expectancy, and also relate some variables to life expectancy.
